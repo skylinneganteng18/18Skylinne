@@ -1,4 +1,10 @@
-{
-  "base_url":"http://panrenncloud.azhost.my.id:3115"
+"base_url": "http://panrenncloud.azhost.my.id:3115",
+  "firebase": {
+    "apiKey": "AIzaSyBRsOATFHKfD6r-CJB0O1UsPjr5icLjgWw",
+    "appId": "1:363878670681:android:f1c065c4a55b0d5b512c48",
+    "messagingSenderId": "363878670681",
+    "projectId": "notif-3b442",
+    "storageBucket": "notif-3b442.firebasestorage.app"
+  }
 }
 
