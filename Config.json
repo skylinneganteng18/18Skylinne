@@ -6,6 +6,13 @@
     "messagingSenderId": "363878670681",
     "projectId": "notif-3b442",
     "storageBucket": "notif-3b442.firebasestorage.app"
+  },
+  "update": {
+    "version": "3.0.0",
+    "build": 1,
+    "apk_url": "https://github.com/skylinneganteng18/18Skylinne/releases/download/v1.0.1/app-release.apk",
+    "changelog": "- Version terbaru",
+    "mandatory": true
   }
 }
 
