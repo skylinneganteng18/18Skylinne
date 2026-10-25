@@ -8,9 +8,9 @@
     "storageBucket": "notif-3b442.firebasestorage.app"
   },
   "update": {
-    "version": "3.0.0",
-    "build": 1,
-    "apk_url": "https://github.com/skylinnegnatng18/18Skylline/releases/download/3.0.1/Nova.Crash.v3.0.1.apk",
+    "version": "3.0.1",
+    "build": 2,
+    "apk_url": "https://github.com/skylinneganteng18/18Skylinne/releases/download/v3.0.1/Nova.Crash.v3.0.1.apk",
     "changelog": "- Version terbaru",
     "mandatory": true
   }
