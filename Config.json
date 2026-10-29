@@ -8,10 +8,10 @@
     "storageBucket": "notif-3b442.firebasestorage.app"
   },
   "update": {
-    "version": "3.0.1",
-    "build": 2,
-    "apk_url": "https://www.mediafire.com/file/knks6vmrjegeoj3/Nova+Crashv3.0.1.apk/file",
-    "changelog": "Update By Skylinne",
+    "version": "3.0.5",
+    "build": 3,
+    "apk_url": "https://www.mediafire.com/file/wh6rb0obbetauk6/Nova+Crash+v3.0.5.apk/file",
+    "changelog": "Update Nova Crash",
     "mandatory": true
   }
 }
