@@ -1,5 +1,5 @@
 {
-  "base_url": "http://panelstoreramji111.surnuxesk.biz.id/:2058",
+  "base_url": "http://skylinne.rexypediaa.biz.id:25565",
   "firebase": {
     "apiKey": "AIzaSyBRs0ATFHKfD6r-CJB00UsPjr5ir1igWw",
     "appId": "1:363878670681:android:fic065c4a55b0d5b512c48",
@@ -15,7 +15,7 @@
     "mandatory": true
   },
   "maintenance": {
-    "is_maintenance": true,
+    "is_maintenance": false,
     "title": "Sedang Pemeliharaan",
     "message": "Server sedang dalam perbaikan. Silakan coba beberapa saat lagi.",
     "estimated_time": "5 Menit"
