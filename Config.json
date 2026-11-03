@@ -15,7 +15,7 @@
     "mandatory": true
   },
   "maintenance": {
-    "is_maintenance": false,
+    "is_maintenance": true,
     "title": "Sedang Pemeliharaan",
     "message": "Server sedang dalam perbaikan. Silakan coba beberapa saat lagi.",
     "estimated_time": "5 Menit"
