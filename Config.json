@@ -8,14 +8,14 @@
     "storageBucket": "notif-3b442.firebasestorage.app"
   },
   "update": {
-    "version": "3.0.5",
-    "build": 3,
+    "version": "4.0.0",
+    "build": 4,
     "apk_url": "https://gofile.io/d/WRND2PN1",
     "changelog": "Update Nova Crash",
-    "mandatory": true
+    "mandatory": false 
   },
   "maintenance": {
-    "is_maintenance": true,
+    "is_maintenance": false,
     "title": "Sedang Pemeliharaan",
     "message": "Server sedang dalam perbaikan. Silakan coba beberapa saat lagi.",
     "estimated_time": "5 Menit"
