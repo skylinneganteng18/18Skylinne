@@ -8,11 +8,11 @@
     "storageBucket": "notif-3b442.firebasestorage.app"
   },
   "update": {
-    "version": "4.0.0",
-    "build": 4,
+    "version": "3.0.5",
+    "build": 3,
     "apk_url": "https://gofile.io/d/WRND2PN1",
     "changelog": "Update Nova Crash",
-    "mandatory": false 
+    "mandatory": true
   },
   "maintenance": {
     "is_maintenance": false,
