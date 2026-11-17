@@ -8,10 +8,10 @@
     "storageBucket": "notif-3b442.firebasestorage.app"
   },
   "update": {
-    "version": "4.0.0",
-    "build": 4,
-    "apk_url": "https://gofile.io/d/FW01NwTU",
-    "changelog": "Penambahan fitur upgrade otomatis role, penambahan custom latar dashboard, apk jadi terasa ringan, thema new",
+    "version": "4.0.5",
+    "build": 5,
+    "apk_url": "https://gofile.io/d/496f41f7-5b20-4a0b-ba03-b0d1221b01c7",
+    "changelog": "Beberapa penambahan fitur dan perbaikan fitur",
     "mandatory": true
   },
   "maintenance": {
