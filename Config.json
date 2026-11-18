@@ -10,7 +10,7 @@
   "update": {
     "version": "4.0.5",
     "build": 5,
-    "apk_url": "https://share.google/Gs8iVsycmJV5jpwU5",
+    "apk_url": "sha256:c904a99a176a874d62d4b80bb3418357ae4f58c9a1db1282d162a962442b290a",
     "changelog": "Beberapa penambahan fitur dan perbaikan fitur",
     "mandatory": true
   },
